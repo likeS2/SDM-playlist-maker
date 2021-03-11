@@ -12,7 +12,7 @@
 <br>
 
 ## How to Use
-<img src="img/algorithm.JPG" width="60%" height="60%"</img>
+<img src="img/algorithm.JPG" width="60%" height="60%"></img>
 
 <br>
 
